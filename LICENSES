@@ -4,8 +4,9 @@
 ; Parsing this file :
 ; ---
 ; Any line starting with ';' is not to be taken to any account.
+; Adding ';' after any character outside of whitespace is ignored.
 ; CommentLine (regex):
-;     `/^;[^\n]/g`
+;     `/^[\s]*;[^\n]/g`
 ; ---
 ; Any line starting with '#' defines header metadata about the license.
 ; HeaderDeclaration (regex):
@@ -230,3 +231,10 @@ INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
 DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
+
+; Attributed as extra. No endorsement intended.
+# City Kit Commercial (https://kenney.nl/assets/city-kit-commercial)
+# Nature Kit (https://kenney.nl/assets/nature-kit)
+# Car Kit (https://kenney.nl/assets/car-kit)
+Created by kenney (kenney.nl)
+Licensed under CC0 1.0 (Public Domain) https://creativecommons.org/publicdomain/zero/1.0/
