@@ -92,7 +92,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-# Nito.Collections.Deque (https://github.com/StephenCleary/Deque/tree/main)
+# Nito.Collections.Deque (https://github.com/StephenCleary/Deque)
 The MIT License (MIT)
 
 Copyright (c) 2015 Stephen Cleary
@@ -136,10 +136,12 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-# Inter (https://github.com/rsms/inter)
-Designed by Rasmus Andersson
+# Liberation Sans (https://github.com/liberationfonts/liberation-fonts/)
 
-Copyright 2020 The Inter Project Authors (https://github.com/rsms/inter) 
+Digitized data copyright (c) 2010 Google Corporation
+    with Reserved Font Arimo, Tinos and Cousine.
+Copyright (c) 2012 Red Hat, Inc.
+    with Reserved Font Name Liberation.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
